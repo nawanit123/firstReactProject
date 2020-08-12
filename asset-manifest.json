@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/firstReactApp/static/css/main.91bab46c.chunk.css",
-    "main.js": "/firstReactApp/static/js/main.1dd2bca5.chunk.js",
-    "main.js.map": "/firstReactApp/static/js/main.1dd2bca5.chunk.js.map",
-    "runtime-main.js": "/firstReactApp/static/js/runtime-main.e6d68e23.js",
-    "runtime-main.js.map": "/firstReactApp/static/js/runtime-main.e6d68e23.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/firstReactApp/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.cab51068.chunk.js": "/firstReactApp/static/js/2.cab51068.chunk.js",
-    "static/js/2.cab51068.chunk.js.map": "/firstReactApp/static/js/2.cab51068.chunk.js.map",
-    "index.html": "/firstReactApp/index.html",
-    "precache-manifest.727e7d62f15b7b693143bc2107fbd1b1.js": "/firstReactApp/precache-manifest.727e7d62f15b7b693143bc2107fbd1b1.js",
-    "service-worker.js": "/firstReactApp/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/firstReactApp/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.91bab46c.chunk.css.map": "/firstReactApp/static/css/main.91bab46c.chunk.css.map",
-    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/firstReactApp/static/js/2.cab51068.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/firstReactApp/static/media/sega-webfont.3939dd2a.woff"
+    "main.css": "/firstReactProject/static/css/main.aaa354c0.chunk.css",
+    "main.js": "/firstReactProject/static/js/main.9692d233.chunk.js",
+    "main.js.map": "/firstReactProject/static/js/main.9692d233.chunk.js.map",
+    "runtime-main.js": "/firstReactProject/static/js/runtime-main.9e71c464.js",
+    "runtime-main.js.map": "/firstReactProject/static/js/runtime-main.9e71c464.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/firstReactProject/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js": "/firstReactProject/static/js/2.cab51068.chunk.js",
+    "static/js/2.cab51068.chunk.js.map": "/firstReactProject/static/js/2.cab51068.chunk.js.map",
+    "index.html": "/firstReactProject/index.html",
+    "precache-manifest.aaec2e1063e9868de00e87036f43ae55.js": "/firstReactProject/precache-manifest.aaec2e1063e9868de00e87036f43ae55.js",
+    "service-worker.js": "/firstReactProject/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/firstReactProject/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.aaa354c0.chunk.css.map": "/firstReactProject/static/css/main.aaa354c0.chunk.css.map",
+    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/firstReactProject/static/js/2.cab51068.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/firstReactProject/static/media/sega-webfont.3939dd2a.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.e6d68e23.js",
+    "static/js/runtime-main.9e71c464.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.cab51068.chunk.js",
-    "static/css/main.91bab46c.chunk.css",
-    "static/js/main.1dd2bca5.chunk.js"
+    "static/css/main.aaa354c0.chunk.css",
+    "static/js/main.9692d233.chunk.js"
   ]
 }
